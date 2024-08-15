@@ -1,5 +1,5 @@
-mysql
+elasticsearch
 #支持私库
-mysql/mysql:latest
+elasticsearch/elasticsearch:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
